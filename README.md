@@ -20,8 +20,8 @@ Declare the main function. In the main function set up the device & data size of
 Execute the program and run the terminal . Check the performance using nvprof.
 ## Program:
 ```
-Developed By: Akkieddy Ruchitha Reddy
-Reg.No: 212221230004
+Developed By: Aruru Sai bandhavi
+Reg.No: 212221240006
 ```
 ```
 #include "common.h"
